@@ -1,13 +1,13 @@
 //
-//  FirebaseWorkshopUITests.swift
-//  FirebaseWorkshopUITests
+//  FirebaseUserAuthUITests.swift
+//  FirebaseUserAuthUITests
 //
 //  Created by David Estrella on 2/2/26.
 //
 
 import XCTest
 
-final class FirebaseWorkshopUITests: XCTestCase {
+final class FirebaseUserAuthUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

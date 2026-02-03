@@ -1,13 +1,13 @@
 //
-//  FirebaseWorkshopUITestsLaunchTests.swift
-//  FirebaseWorkshopUITests
+//  FirebaseUserAuthUITestsLaunchTests.swift
+//  FirebaseUserAuthUITests
 //
 //  Created by David Estrella on 2/2/26.
 //
 
 import XCTest
 
-final class FirebaseWorkshopUITestsLaunchTests: XCTestCase {
+final class FirebaseUserAuthUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
