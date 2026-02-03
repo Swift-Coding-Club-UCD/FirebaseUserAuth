@@ -1,0 +1,15 @@
+# Firebase credentials
+GoogleService-Info.plist
+Info.plist
+
+# Environment variables
+.env
+
+# Xcode
+*.xcuserdata
+*.xcworkspace/xcuserdata/
+DerivedData/
+build/
+
+# macOS
+.DS_Store
